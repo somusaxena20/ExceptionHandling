@@ -1,0 +1,7 @@
+//editors/optionsParameters.background=43,43,43
+//editors/optionsParameters.foreground=216,216,216
+//editors/optionsProposals.background=43,43,43
+//editors/optionsProposals.foreground=216,216,216
+MatchingBrackets.color=66,68,69
+eclipse.preferences.version=1
+overriddenByCSS=,editors/optionsParameters.foreground,editors/optionsProposals.foreground,editors/optionsParameters.background,MatchingBrackets.color,editors/optionsProposals.background,

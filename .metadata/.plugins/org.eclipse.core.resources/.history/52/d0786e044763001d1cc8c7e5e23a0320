@@ -1,0 +1,9 @@
+package com.somu.methodToPrintExceptionInfo;
+
+import org.w3c.dom.ls.LSOutput;
+
+public class PrintExceptionInfo {
+	public static void main(String[] args) {
+		LSOutput
+	}
+}

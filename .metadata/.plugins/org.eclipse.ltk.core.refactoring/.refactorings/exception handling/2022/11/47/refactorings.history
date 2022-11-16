@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.somu.try_catch_block&apos; to &apos;com.somu.try_catch_finally_block&apos;&#x0D;&#x0A;- Original project: &apos;exception handling&apos;&#x0D;&#x0A;- Original element: &apos;exception handling/src/com.somu.try_catch_block&apos;&#x0D;&#x0A;- Renamed element: &apos;exception handling/src/com.somu.try_catch_finally_block&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.somu.try_catch_block&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.somu.try_catch_block" name="com.somu.try_catch_finally_block" qualified="false" references="true" stamp="1668589154161" textual="false" version="1.0"/>
+</session>

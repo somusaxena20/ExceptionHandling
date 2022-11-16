@@ -1,0 +1,39 @@
+package com.somu.try_catch_finally_block;
+
+public class FinallyVsReturn {
+	public static void main(String[] args) {
+		
+//		CASE 1 : WHEN TRY BLOCK HAVEING RETURN STATEMENT THEN FIRST IT EXECUTE FINALLY BLOCK THEN RETURN
+		
+//		try {
+//			System.out.println("try");
+//			return;
+//		}
+//		catch(Exception e)
+//		{
+//			System.out.println("catch");
+//		}
+//		finally {
+//			System.out.println("finally");
+//		}
+		
+		System.out.println(method1());
+	}
+
+	@SuppressWarnings("finally")
+	private static int method1() {
+		
+		try {
+			return 100;
+		}
+		catch (Exception e) {
+			return 200;
+		}
+		finally {
+			return 300;
+		}
+		
+	}
+	
+
+}

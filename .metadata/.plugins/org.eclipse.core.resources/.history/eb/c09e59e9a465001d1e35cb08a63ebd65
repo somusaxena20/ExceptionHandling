@@ -1,0 +1,24 @@
+package com.somu.try_catch_finally_block;
+
+public class NestedTryCatchFinally {
+	public static void main(String[] args) {
+		
+		try {
+//			RISKY CODE
+			System.out.println("");
+			try {
+				System.out.println(10/0);
+			}
+			catch (ArithmeticException e) {
+				
+			}
+			
+			
+		} catch (Exception e) {
+			
+		}
+		finally {
+			
+		}
+	}
+}

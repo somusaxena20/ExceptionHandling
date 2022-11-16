@@ -1,0 +1,20 @@
+package com.somu.checkedVsUnchecked;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class CheckedVsUnchecked {
+	public static void main(String[] args)throws Exception,FileNotFoundException{
+		
+//		EXAMPLE OF CHECKED EXCEPTION : FileNotFoundException
+		
+		PrintWriter pw = new PrintWriter("abc.txt");
+		pw.println("Hello");
+		
+//		IntruptedException
+		
+		Thread.sleep(1000);
+		
+	}
+}

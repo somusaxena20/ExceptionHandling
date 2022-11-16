@@ -1,0 +1,16 @@
+package com.somu.try_catch_finally_block;
+
+public class NestedTryCatchFinally {
+	public static void main(String[] args) {
+		
+		try {
+//			RISKY CODE
+			
+		} catch (Exception e) {
+			
+		}
+		finally {
+			
+		}
+	}
+}
