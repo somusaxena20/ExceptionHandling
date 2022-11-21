@@ -1,7 +1,0 @@
-package com.somu.throwsKeyword;
-
-public class CasesRelatedThrows {
-	public static void main(String[] args) {
-		
-	}
-}

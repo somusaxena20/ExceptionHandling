@@ -1,7 +1,0 @@
-final -> keyword
-
-class -> when you make class final you cannot extends that class
-
-method -> if you make method as final you cannot override
-
-variable -> if you make variable 

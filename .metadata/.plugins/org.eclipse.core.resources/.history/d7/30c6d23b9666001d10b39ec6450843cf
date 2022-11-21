@@ -1,7 +1,0 @@
-package com.somu.throwsKeyword;
-
-public class Case2 exted{
-	public static void main(String[] args)throws Case2 {
-		
-	}
-}

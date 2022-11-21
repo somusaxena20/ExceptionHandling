@@ -1,6 +1,0 @@
-TOP 10 -> EXCEPTION
-
-1) ArrayOutOfBoundException -> When you try to access out range of array then it cause
-
-2) NullPointerException -> When you try to perform any operation on NULL then this occure
-
