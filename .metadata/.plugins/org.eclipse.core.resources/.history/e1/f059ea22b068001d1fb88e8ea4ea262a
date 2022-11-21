@@ -1,0 +1,13 @@
+package com.somu.top10_exception;
+
+public class Top10Exception {
+
+	public static void main(String[] args) {
+		
+//		ArrayOutOfBoundException
+		
+		int []a = new int[10];
+		System.out.println(a[10]);
+	}
+
+}

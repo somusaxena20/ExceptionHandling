@@ -1,0 +1,19 @@
+package com.somu.userDefinedException;
+
+import java.util.Scanner;
+
+public class UserDefinedException {
+	
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Enter your age : ");
+		int age = sc.nextInt();
+		
+		if (age > 60) {
+			throw new TooYoungException();
+		} else {
+
+		}
+	}
+}

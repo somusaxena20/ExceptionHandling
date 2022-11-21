@@ -1,0 +1,22 @@
+package com.somu.userDefinedException;
+
+import java.util.Scanner;
+
+public class UserDefinedException {
+	
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Enter your age : ");
+		int a = sc.nextInt();
+		
+		switch (a) {
+			case value: {
+				
+				yield type;
+			}
+			default:
+				throw new IllegalArgumentException("Unexpected value: " + a);
+		}
+	}
+}

@@ -1,7 +1,0 @@
-package com.somu.methodToPrintExceptionInfo;
-
-public class PrintExceptionInfo {
-	public static void main(String[] args) {
-		System.out.println();
-	}
-}

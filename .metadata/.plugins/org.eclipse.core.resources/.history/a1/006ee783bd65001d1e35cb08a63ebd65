@@ -1,0 +1,10 @@
+package com.somu.throwKeyword;
+
+public class Case2 {
+	public static void main(String[] args) {
+		
+//		1st
+		
+		System.out.println(1);
+	}
+}

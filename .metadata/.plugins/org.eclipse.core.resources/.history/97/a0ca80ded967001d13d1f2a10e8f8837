@@ -1,0 +1,9 @@
+package com.somu.userDefinedException;
+
+public class TooYoungException extends RuntimeException {
+	
+	public TooOldException(String msg)
+	{
+		super(msg);
+	}
+}

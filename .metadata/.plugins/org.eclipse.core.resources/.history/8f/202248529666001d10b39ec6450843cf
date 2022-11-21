@@ -1,0 +1,7 @@
+package com.somu.throwsKeyword;
+
+public class Case2 extends Throwable{
+	public static void main(String[] args)throws Case2 {
+		
+	}
+}

@@ -1,0 +1,12 @@
+package com.somu.top10_exception;
+
+public class School {
+	public String name;
+
+	public School(String name) {
+		super();
+		this.name = name;
+	}
+	
+	
+}

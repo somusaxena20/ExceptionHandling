@@ -1,0 +1,11 @@
+package com.somu.userDefinedException;
+
+import java.io.IOException;
+
+public class TooYoungException extends IOException {
+	
+	public TooYoungException(String msg)
+	{
+		super(msg);
+	}
+}

@@ -1,0 +1,5 @@
+package com.somu.userDefinedException;
+
+public class TooYoungException {
+
+}

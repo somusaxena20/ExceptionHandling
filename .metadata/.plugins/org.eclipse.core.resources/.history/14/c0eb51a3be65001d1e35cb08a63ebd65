@@ -1,0 +1,19 @@
+package com.somu.throwKeyword;
+
+//1st
+
+O/P : EXCPTION MUST BE A SUBCLASS OF THRO
+
+//public class Case3 {
+//	public static void main(String[] args) {
+//		throw new Case3();
+//	}
+//}
+
+//2nd
+
+//public class Case3 {
+//	public static void main(String[] args) {
+//		
+//	}
+//}

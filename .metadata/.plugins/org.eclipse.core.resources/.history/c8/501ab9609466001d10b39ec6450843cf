@@ -1,0 +1,19 @@
+package com.somu.throwsKeyword;
+
+public class RuleForThrows {
+	public static void main(String[] args)throws InterruptedException {
+
+//		EXAMPLE : 1 THIS WAY YOU GET AN ERROR BECAUSE YOU HAVE TO DECLARE 
+
+		doStuff();
+		
+		
+	}
+	private static void doStuff() {
+		doMoreStuff();
+
+	}
+	private static void doMoreStuff() {
+		Thread.sleep(1000);
+	}
+}

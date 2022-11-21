@@ -1,0 +1,20 @@
+package com.somu.throwKeyword;
+
+public class NeedOfThrow {
+	
+	public static void main(String[] args) {
+		
+//		NEED OF THROW : TO HANDOVER USER DEFINED EXCEPTION TO JVM THAT'S WHY WE NEED THROW KEYWORD
+		
+		
+//		EXAMPLE WITHOUT THROW
+		
+		methodWithoutThrow();
+		
+		
+	}
+	
+	
+	
+	
+}

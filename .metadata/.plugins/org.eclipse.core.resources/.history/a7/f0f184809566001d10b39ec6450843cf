@@ -1,0 +1,20 @@
+package com.somu.throwsKeyword;
+
+
+
+class Test throws Exception
+{
+	public Test()throws Exception {
+		
+	}
+	
+	public void m1()throws Exception {
+		
+	}
+}
+
+public class Case1 {
+	public static void main(String[] args) {
+		
+	}
+}

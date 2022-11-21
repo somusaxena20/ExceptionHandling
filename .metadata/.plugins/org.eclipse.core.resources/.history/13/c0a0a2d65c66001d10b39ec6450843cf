@@ -1,0 +1,18 @@
+package com.somu.throwsKeyword;
+
+import java.io.PrintWriter;
+
+public class ThrowsKeyword {
+	public static void main(String[] args) {
+		
+//		FIRST EXAMPLE
+		
+//		PrintWriter pw = new PrintWriter("abc.txt");
+//		pw.println("Hello");
+		
+//		SECOND EXAMPLE
+		
+//		Thread.sleep(1000);
+//		System.out.println("Hello");
+	}
+}

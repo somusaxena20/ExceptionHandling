@@ -1,0 +1,9 @@
+package com.somu.throwsKeyword;
+
+public class Case3 {
+	public static void main(String[] args) {
+		
+		
+		throw new Exception();
+	}
+}

@@ -1,0 +1,16 @@
+package com.somu.throwKeyword;
+
+//1st
+
+public class Case3 {
+	public static void main(String[] args) {
+		
+	}
+}
+
+
+public class Case3 {
+	public static void main(String[] args) {
+		
+	}
+}

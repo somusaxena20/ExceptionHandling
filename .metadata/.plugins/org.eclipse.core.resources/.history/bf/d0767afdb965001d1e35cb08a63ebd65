@@ -1,0 +1,8 @@
+package com.somu.throwKeyword;
+
+public class NeedOfThrow {
+	
+	public static void main(String[] args) {
+		
+	}
+}
